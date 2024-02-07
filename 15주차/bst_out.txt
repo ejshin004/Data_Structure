@@ -1,0 +1,12 @@
+case: 8개
+char: 3개
+else: 5개
+for: 1개
+if: 7개
+int: 10개
+return: 7개
+switch: 1개
+typedef: 2개
+void: 3개
+while: 1개
+가장 자주 출현한 예약어(빈도수): int(10개)
